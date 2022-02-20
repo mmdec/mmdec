@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <h1>Olá! Eu sou Matheus Machado</h1>
-  <p>Bem-vindo/a ao meu perfil no GitHub. Sinta-se livre para entrar em contato comigo em alguma rede vizinha.</p>
+  <p>Bem-vindo(a) ao meu perfil no GitHub. Sinta-se livre para entrar em contato comigo em alguma rede vizinha.</p>
 </div>
 
 <div align="center">
