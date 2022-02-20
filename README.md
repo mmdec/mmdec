@@ -20,12 +20,12 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/mmdec/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:mmdec.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/mmdec/" target="_blank"><img height="35em" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto:mmdec.dev@gmail.com" target="_blank"><img height="35em" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><br>
 
 <div align="center">
-  <img height="150em"src="https://github-readme-stats.vercel.app/api?username=mmdec&show_icons=true&theme=tokyonight" /> 
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmdec&theme=tokyonight&layout=compact" />
+  <img width="50%" height="auto"src="https://github-readme-stats.vercel.app/api?username=mmdec&show_icons=true&theme=tokyonight" /> 
+  <img width="50%"height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmdec&theme=tokyonight&layout=compact" />
 </div> 
 
