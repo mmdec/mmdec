@@ -25,7 +25,12 @@ Here are some ideas to get you started:
 </div><br>
 
 <div align="center">
+  <h1>GitHub Stats</h1>
   <img height="140em"src="https://github-readme-stats.vercel.app/api?username=mmdec&show_icons=true&theme=tokyonight" /> 
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmdec&theme=tokyonight&layout=compact" />
 </div> 
+  
+<div align="center">
+  <p><a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">GitHub Readme Stats</a> feito por <a href="https://github.com/anuraghazra" target="_blank">Anurag Hazra</a></p>
+</div>
 
